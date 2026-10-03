@@ -33,7 +33,7 @@ export default function App() {
       {message && <p>{message}</p>}
       {error && <p className="error">{error}</p>}
       {/* EXERCISE (part 2): uncomment <UserForm /> and the UserForm function below. */}
-      {/* <UserForm /> */}
+      { <UserForm /> }
     </main>
   )
 }
