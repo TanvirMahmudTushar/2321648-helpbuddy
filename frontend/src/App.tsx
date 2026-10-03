@@ -21,7 +21,7 @@ export default function App() {
 
   return (
     <main>
-      <h1>FastAPI + React</h1>
+      <h1>Tanvir Mahmud</h1>
       <form onSubmit={handleSubmit}>
         <input
           value={name}
