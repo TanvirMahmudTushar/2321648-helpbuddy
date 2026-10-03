@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+.venv/
+*.pyc
+
+# Node
+node_modules/
+frontend/dist/
+
+# Env / tooling
+.env
+.vercel/
+.vscode/*
+!.vscode/extensions.json
